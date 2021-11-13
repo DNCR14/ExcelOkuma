@@ -1,0 +1,9 @@
+C:\Users\DNCR\source\repos\ExcelOkuma\ExcelOkuma\bin\x86\Debug\ExcelOkuma.exe.config
+C:\Users\DNCR\source\repos\ExcelOkuma\ExcelOkuma\bin\x86\Debug\ExcelOkuma.exe
+C:\Users\DNCR\source\repos\ExcelOkuma\ExcelOkuma\bin\x86\Debug\ExcelOkuma.pdb
+C:\Users\DNCR\source\repos\ExcelOkuma\ExcelOkuma\obj\x86\Debug\ExcelOkuma.Form1.resources
+C:\Users\DNCR\source\repos\ExcelOkuma\ExcelOkuma\obj\x86\Debug\ExcelOkuma.Properties.Resources.resources
+C:\Users\DNCR\source\repos\ExcelOkuma\ExcelOkuma\obj\x86\Debug\ExcelOkuma.csproj.GenerateResource.cache
+C:\Users\DNCR\source\repos\ExcelOkuma\ExcelOkuma\obj\x86\Debug\ExcelOkuma.csproj.CoreCompileInputs.cache
+C:\Users\DNCR\source\repos\ExcelOkuma\ExcelOkuma\obj\x86\Debug\ExcelOkuma.exe
+C:\Users\DNCR\source\repos\ExcelOkuma\ExcelOkuma\obj\x86\Debug\ExcelOkuma.pdb
